@@ -1,0 +1,26 @@
+{
+  "name": "5tasks-app-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adkins1/5tasks-app-backend.git"
+  },
+  "author": "Adam Kawka",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Adkins1/5tasks-app-backend/issues"
+  },
+  "homepage": "https://github.com/Adkins1/5tasks-app-backend#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "pg": "^8.13.0",
+    "uuid": "^10.0.0"
+  }
+}
